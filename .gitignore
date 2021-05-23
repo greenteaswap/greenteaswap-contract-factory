@@ -1,0 +1,17 @@
+/node_modules/
+/.idea/
+/secrets.json
+/scripts/
+/migrations/
+/build/
+/client/
+/test/
+/accounts.json
+.env
+/flatten
+.secret
+.secret-bsc-mainnet
+yarn.lock
+package-lock.json
+.DS_Store
+/secrets
